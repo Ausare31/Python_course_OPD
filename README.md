@@ -1,2 +1,2 @@
-# python_course_OPD
+# python_course_BPA
 **Выполнил:** студент группы ИВТ-223, Байтасов А.К.
